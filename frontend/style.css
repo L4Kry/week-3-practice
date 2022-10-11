@@ -1,0 +1,11 @@
+.pictures img {
+    height: 450px;
+    width: 300px;
+    margin: 10px 5px;
+}
+
+.pictures {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
